@@ -1,0 +1,3 @@
+[submodule "pynobo"]
+	path = pynobo
+	url = https://github.com/echoromeo/pynobo
